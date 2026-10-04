@@ -1,0 +1,30 @@
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\StockManagementApp.exe
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\StockManagementApp.deps.json
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\StockManagementApp.runtimeconfig.json
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\StockManagementApp.dll
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\StockManagementApp.pdb
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.csproj.AssemblyReference.cache
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.Forms.MainForm.resources
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.csproj.GenerateResource.cache
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.AssemblyInfoInputs.cache
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.AssemblyInfo.cs
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.csproj.CoreCompileInputs.cache
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockMan.EC9BCD68.Up2Date
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.dll
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\refint\StockManagementApp.dll
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.pdb
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\StockManagementApp.genruntimeconfig.cache
+D:\Stock Management\StockManagement\StockManagementApp\obj\Release\net8.0-windows\ref\StockManagementApp.dll
+C:\Users\lenovo\AppData\Local\Temp\stockapp\StockManagementApp.exe
+C:\Users\lenovo\AppData\Local\Temp\stockapp\StockManagementApp.deps.json
+C:\Users\lenovo\AppData\Local\Temp\stockapp\StockManagementApp.runtimeconfig.json
+C:\Users\lenovo\AppData\Local\Temp\stockapp\StockManagementApp.dll
+C:\Users\lenovo\AppData\Local\Temp\stockapp\StockManagementApp.pdb
+D:\Stock Management\StockManagement\StockManagementApp\bin\Release\net8.0-windows\Resources\logo.png
